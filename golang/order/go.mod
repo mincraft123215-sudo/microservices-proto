@@ -1,4 +1,4 @@
-module github.com/mincraft123215-sudo/proto/order
+module github.com/incraft123215-sudo/proto-microservices/golang/order
 
 go 1.25.5
 
