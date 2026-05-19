@@ -1,4 +1,4 @@
-module github.com/mincraft123215-sudo/proto/golang
+module github.com/mincraft123215-sudo/microservices-proto/golang/payment
 
 go 1.25.5
 
